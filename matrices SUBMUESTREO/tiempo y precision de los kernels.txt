@@ -1,0 +1,14 @@
+linear:
+Entrenamiento terminado en 31.629210233688354 segundos
+Predicción terminada en 0.6854653358459473 segundos
+0.9869807027892475
+
+poly:
+Entrenamiento terminado en 0.057825565338134766 segundos
+Predicción terminada en 2.3673012256622314 segundos
+0.34190050841268504
+
+rbf:
+Entrenamiento terminado en 0.08374905586242676 segundos
+Predicción terminada en 7.951810598373413 segundos
+0.4516446167242493

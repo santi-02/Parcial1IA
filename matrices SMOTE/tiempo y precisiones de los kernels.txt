@@ -1,0 +1,35 @@
+tiempo y precisiones
+
+Test
+
+linear:
+Entrenamiento terminado en 527.2375044822693 segundos
+Predicción terminada en 0.8648409843444824 segundos
+0.9985955450689588
+
+poly:
+Entrenamiento terminado en 6.01013445854187 segundos
+Predicción terminada en 1.7109870910644531 segundos
+0.9982725204348193
+
+rbf:
+Entrenamiento terminado en 8.086082220077515 segundos
+Predicción terminada en 5.710809230804443 segundos
+0.9982725204348193
+
+Test-copy2
+
+linear:
+Entrenamiento terminado en 781.0815618038177 segundos
+Predicción terminada en 1.2776470184326172 segundos
+0.9985955450689588
+
+poly:
+Entrenamiento terminado en 10.674534797668457 segundos
+Predicción terminada en 2.57808256149292 segundos
+0.9982725204348193
+
+rbf:
+Entrenamiento terminado en 12.821895599365234 segundos
+Predicción terminada en 9.541161060333252 segundos
+0.9982725204348193
