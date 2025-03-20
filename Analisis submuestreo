@@ -1,0 +1,3 @@
+El analisis que resulta que en cuestio de timepo y precision comparado los kernels linear,poly y 
+rbf en el metodo de SUBMUESTREO resulto que el tuvo un mejor porcentaje de precision fue el kernel 
+LINEAR con un 0.9869807027892475, mientras los demas tuvieron por debajo del 0.5 
